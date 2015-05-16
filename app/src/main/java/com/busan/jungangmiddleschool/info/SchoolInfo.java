@@ -16,7 +16,7 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import wondang.icehs.kr.whdghks913.wondanghighschool.R;
+import com.busan.jungangmiddleschool.R;
 
 public class SchoolInfo extends ActionBarActivity {
     Toolbar mToolbar;

@@ -9,8 +9,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import wondang.icehs.kr.whdghks913.wondanghighschool.R;
-import wondang.icehs.kr.whdghks913.wondanghighschool.tool.BapTool;
+import com.busan.jungangmiddleschool.R;
+import com.busan.jungangmiddleschool.tool.BapTool;
 
 /**
  * Created by 종환 on 2015-02-17.

@@ -47,7 +47,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         mToolbar = (Toolbar) findViewById(R.id.mToolbar);
-        mToolbar.setBackgroundColor(getResources().getColor(R.color.flat_sky_light_blue));
+        mToolbar.setBackgroundColor(getResources().getColor(R.color.primary));
         setSupportActionBar(mToolbar);
         mToolbar.setTitleTextColor(Color.WHITE);
         mDrawer = (DrawerLayout) findViewById(R.id.drawer_layout);

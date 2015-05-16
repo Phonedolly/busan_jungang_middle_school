@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import wondang.icehs.kr.whdghks913.wondanghighschool.R;
+import com.busan.jungangmiddleschool.R;
 
 /**
  * Created by 종환 on 2015-02-22.

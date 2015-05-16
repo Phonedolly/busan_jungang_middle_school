@@ -12,7 +12,7 @@ import android.view.Gravity;
 import android.view.MenuItem;
 import android.view.View;
 
-import wondang.icehs.kr.whdghks913.wondanghighschool.R;
+import com.busan.jungangmiddleschool.R;
 
 public class ImageDetailActivity extends ActionBarActivity {
     Toolbar mToolbar;

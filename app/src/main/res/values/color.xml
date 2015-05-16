@@ -21,5 +21,9 @@
     <color name="flat_traffic_yellow">#FFD200</color>
     <!-- Info -->
     <color name="flat_grey">#9FA0A4</color>
+    <!-- Primary -->
+    <color name="primary">#2196F3</color>
+    <!-- Primary(Indigo) -->
+    <color name="primary_indigo">#3F51B5</color>
 
 </resources>

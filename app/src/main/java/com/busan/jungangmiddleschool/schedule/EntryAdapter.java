@@ -10,8 +10,8 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import wondang.icehs.kr.whdghks913.wondanghighschool.R;
-import wondang.icehs.kr.whdghks913.wondanghighschool.schedule.ScheduleActivity.Item;
+import com.busan.jungangmiddleschool.R;
+import com.busan.jungangmiddleschool.schedule.ScheduleActivity.Item;
 
 public class EntryAdapter extends ArrayAdapter<Item> {
 

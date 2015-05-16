@@ -27,7 +27,7 @@ public class SettingsActivity extends ActionBarActivity {
         setContentView(R.layout.activity_settings);
 
         mToolbar = (Toolbar) findViewById(R.id.mToolbar);
-        mToolbar.setBackgroundColor(getResources().getColor(R.color.flat_sky_blue));
+        mToolbar.setBackgroundColor(getResources().getColor(R.color.primary_indigo));
         setSupportActionBar(mToolbar);
         mToolbar.setTitleTextColor(Color.WHITE);
 
@@ -143,7 +143,7 @@ public class SettingsActivity extends ActionBarActivity {
                     else if (index == 2) updateAlarm.SundayUpdate();
 
                 } else if (preference instanceof CheckBoxPreference) {
-                    wondang.icehs.kr.whdghks913.wondanghighschool.tool.Preference mPref = new wondang.icehs.kr.whdghks913.wondanghighschool.tool.Preference(getActivity());
+                    com.busan.jungangmiddleschool.tool.Preference mPref = new com.busan.jungangmiddleschool.tool.Preference(getActivity());
 
                     if (mPref.getBoolean("firstOfAutoUpdate", true)) {
                         mPref.putBoolean("firstOfAutoUpdate", false);

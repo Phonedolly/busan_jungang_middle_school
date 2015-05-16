@@ -22,7 +22,7 @@ import android.widget.AbsListView;
 import android.widget.ImageButton;
 import android.widget.ScrollView;
 
-import wondang.icehs.kr.whdghks913.wondanghighschool.R;
+import com.busan.jungangmiddleschool.R;
 
 /**
  * Android Google+ like floating action button which reacts on the attached list
